@@ -32,7 +32,7 @@ while True:
  c.send(ClientMessage.encode())
 ```
 
-## OUPUT
+## OUTPUT
 
 ## CLIENT
 ![243808843-4df0136b-a680-453b-90ac-47d33d661ae7](https://github.com/Jai-1801/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/139335300/945eb049-dd59-41ec-beaf-bf89449d403d)
